@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:paddingHorizontal="12dp"
-        android:paddingVertical="12dp">
+        android:paddingVertical="16dp">
 
         <LinearLayout
             android:layout_width="match_parent"
